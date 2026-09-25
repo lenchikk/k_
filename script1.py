@@ -1,0 +1,8 @@
+print('Задача №1')
+a=int(input())
+b=int(input())
+print(a+b)
+print(a-b)
+print(a*b)
+print('Задача №2')
+print(a%10)
